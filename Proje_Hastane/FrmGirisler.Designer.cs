@@ -141,7 +141,7 @@
             this.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.MaximizeBox = false;
             this.Name = "FrmGirisler";
-            this.Text = "Teal Hospital Giriş";
+            this.Text = "Teal Hospital Giriş";        
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -31,5 +31,6 @@ namespace Proje_Hastane
             bgl.baglanti().Close();
             MessageBox.Show("Kaydınız gerçekleşmiştir. Şifreniz: " +txt_sifre.Text,"Bilgi",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
+      
     }
 }

@@ -38,5 +38,7 @@ namespace Proje_Hastane
             fr.Show();
             this.Hide();
         }
+
+       
     }
 }
